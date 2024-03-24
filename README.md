@@ -1,3 +1,4 @@
+# Question 1
 # Bucketizer
 
 The Bucketizer program allows users to bucketize a list of numerical values into ranges based on a specified bucket size.
@@ -54,7 +55,7 @@ the bucketized values will look like this`:
 
 [10.000-10.049, 11.400-11.449, 12.000-12.049, 12.000-12.049, 13.500-13.549]
 
-
+# Question 2
 # PlayerAnalysis
 
 The PlayerAnalysis program allows users to input player statistics, analyze the data, and display various insights such as the player with the highest run scored, top 5 players by run scored, top 5 players by wickets taken, and ranking of players by overall performance.
